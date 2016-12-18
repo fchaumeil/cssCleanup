@@ -1,0 +1,26 @@
+"footer"
+Line 2
+"h2"
+Line 9
+"h3"
+Line 9
+"a"
+Line 14
+"h1"
+Line 14
+"h2"
+Line 14
+"h3"
+Line 14
+"h4"
+Line 14
+"h5"
+Line 14
+"h6"
+Line 14
+"p a"
+Line 14
+".quelquechoseresponsive"
+Line 19
+".title_text_shadow .breadcrumbs .breadcrumbs_inner"
+Line 25
